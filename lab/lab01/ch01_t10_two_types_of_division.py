@@ -1,2 +1,2 @@
 cucumber = 100
-num
+num_p
