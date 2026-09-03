@@ -5,3 +5,4 @@ whole_cucumbers_per_person = cucumber // num_people
 print(whole_cucumbers_per_person)
 
 floating_point_cucumbers_per_person = cucumber / num_people
+print(floating_point_cucumbers_per_person)
