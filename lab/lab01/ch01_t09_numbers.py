@@ -1,1 +1,2 @@
-cucumbers = 5
+cucumbers = 1
+price
