@@ -1,4 +1,4 @@
 import datetime
 
-today_time = fdatetime.datetime.now()
+today_time = f"[datetime.datetime.now()
 print("Current time:", current_time)
