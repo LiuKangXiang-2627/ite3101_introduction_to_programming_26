@@ -1,1 +1,1 @@
-skill_compl
+skill_completed
