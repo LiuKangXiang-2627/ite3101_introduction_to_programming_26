@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-# t
+# this is a comment about the population of the city
 city_pop = 340000
