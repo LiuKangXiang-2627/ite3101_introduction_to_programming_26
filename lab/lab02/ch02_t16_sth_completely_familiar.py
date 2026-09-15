@@ -2,3 +2,4 @@
 
 my_string = "I am a string!"
 print(len(my_string)
+      
