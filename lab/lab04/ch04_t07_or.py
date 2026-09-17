@@ -1,6 +1,6 @@
 bool_one = None
 
-bool_two = None
+bool_two = Ture
 
 bool_three = None
 
