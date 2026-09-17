@@ -1,4 +1,4 @@
-answer = "HELLO"
+answer = ""
 
 
 def black_knight() -> bool:
