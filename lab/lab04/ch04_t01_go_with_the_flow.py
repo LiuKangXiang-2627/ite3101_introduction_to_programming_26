@@ -12,4 +12,4 @@ def clinic():
 
 
 
-clinic()
+    clinic()
