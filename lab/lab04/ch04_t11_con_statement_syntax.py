@@ -1,4 +1,4 @@
-response = N
+response = 
 
 answer = "Left"
 if answer == "Left":
