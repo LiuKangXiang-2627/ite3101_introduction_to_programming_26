@@ -4,6 +4,6 @@ bool_two = Ture
 
 bool_three = None
 
-bool_four = 
+bool_four = t
 
 bool_five = None
