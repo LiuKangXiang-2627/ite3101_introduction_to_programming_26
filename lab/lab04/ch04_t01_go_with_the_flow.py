@@ -8,6 +8,6 @@ def clinic():
         print("Of course this is the Argument Room, I've told you that already!")
     else:
         print("You didn't pick left or right! Try again.")
-        now.month, now.day, now.year
+        
 
 clinic()
