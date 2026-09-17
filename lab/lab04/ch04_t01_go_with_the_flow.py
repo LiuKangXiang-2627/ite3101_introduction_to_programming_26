@@ -11,5 +11,4 @@ def clinic():
         clinic()
 
 
-
-    clinic()
+clinic()
