@@ -8,4 +8,4 @@ def square(n: float) -> float:
 # include the number 10 between the parentheses.
 
 
-square()
+square(10)
