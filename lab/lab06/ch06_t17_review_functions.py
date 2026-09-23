@@ -1,5 +1,5 @@
 def shut_down(s):
-    if s == "yes":
+    if s():
         print("Shutting down")
     elif s == "no":
         print("Shutdown aborted")
