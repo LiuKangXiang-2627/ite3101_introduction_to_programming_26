@@ -3,3 +3,4 @@ def shut_doem(s):
         print("Shutting down...")
     elif s == "no":
         print("Shutdown aborted.")
+    else:
