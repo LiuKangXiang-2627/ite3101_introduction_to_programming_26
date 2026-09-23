@@ -1,4 +1,7 @@
-<5:
+def greater_less_equal_5(answer: int) -> int:
+    if 6>5:
+        return 1
+    elif 6<5:
         return -1
     else:
         return 0
