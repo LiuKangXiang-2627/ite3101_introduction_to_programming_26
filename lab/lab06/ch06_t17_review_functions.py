@@ -5,3 +5,4 @@ def shut_down(s):
         print("Shutdown aborted")
     else:
         print("Sorry")
+shut_down()
