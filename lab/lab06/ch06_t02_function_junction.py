@@ -7,3 +7,4 @@
 def spam():
     """prints the string 'Eggs!' to the console"""
     print('Eggs!')
+spam()
