@@ -1,8 +1,7 @@
 def shut_down(s):
     if s == "yes":
-        print("Shutting down")
+        return ("Shutting down")
     elif s == "no":
-        print("Shutdown aborted")
+        return ("Shutdown aborted")
     else:
-        print("Sorry")
-shut_down("yes")
+        return ("Sorry")
