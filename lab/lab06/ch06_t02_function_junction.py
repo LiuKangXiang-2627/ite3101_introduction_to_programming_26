@@ -5,7 +5,7 @@
 
 # Define the spam function above this line.
 def spam():
-    """Prints the string 'spam' three times."""
+    """prints the string "Eggs!" to the console"""
     print("spam")
     print("spam")
     print("spam")
