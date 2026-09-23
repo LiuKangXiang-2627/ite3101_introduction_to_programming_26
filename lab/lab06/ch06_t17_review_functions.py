@@ -1,1 +1,1 @@
-def shut_doem(s)
+def shut_doem(s):
