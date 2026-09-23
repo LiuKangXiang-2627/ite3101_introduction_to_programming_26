@@ -4,4 +4,4 @@ def shut_doem(s):
     elif s == "no":
         print("Shutdown aborted.")
     else:
-        print("Invalid input. Please enter 'yes' or 'no'.")
+        print("Sorry")
