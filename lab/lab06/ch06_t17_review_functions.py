@@ -1,7 +1,7 @@
 def shut_doem(s):
     if s == "yes":
-        print("Shutting down...")
+        print("Shutting down")
     elif s == "no":
-        print("Shutdown aborted.")
+        print("Shutdown aborted")
     else:
         print("Sorry")
