@@ -5,4 +5,7 @@
 
 # Define the spam function above this line.
 def spam():
-    
+    """Prints the string 'spam' three times."""
+    print("spam")
+    print("spam")
+    print("spam")
