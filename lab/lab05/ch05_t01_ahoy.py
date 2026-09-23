@@ -1,2 +1,2 @@
 
-print(pig Latin)
+print(Pig Latin)
