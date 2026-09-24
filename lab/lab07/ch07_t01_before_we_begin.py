@@ -1,2 +1,1 @@
-def answer:
-    return(42)
+def answer :
