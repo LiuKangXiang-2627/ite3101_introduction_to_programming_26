@@ -6,3 +6,5 @@ webster = {
 }
 
 # Add your code below!
+for i in webster:
+    
