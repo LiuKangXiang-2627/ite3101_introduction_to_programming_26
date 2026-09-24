@@ -12,5 +12,4 @@ del zoo_animals['Unicorn']
 # Your code here!
 del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
-zoo_animals['Atlantic Puffin']='cool exhibit'
 print(zoo_animals)
