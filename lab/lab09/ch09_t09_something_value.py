@@ -19,6 +19,6 @@ for key in prices:
 total = 0
 for i in prices:
     key1=prices[i]*stock[i]
-    print(key)
-    total = total + key
+    print(key1)
+    total = total + key1
 print(total)
