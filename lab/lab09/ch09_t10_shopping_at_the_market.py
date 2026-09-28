@@ -1,2 +1,2 @@
 
-values "banana", "orange", and "apple".
+groceries=[values "banana", "orange", and "apple".
