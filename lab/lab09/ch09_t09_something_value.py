@@ -18,7 +18,7 @@ for key in prices:
 
 total = 0
 for i in prices:
-    nal=prices[i]*stock[i]
-    print(key1)
-    total = total + key1
+    value=prices[i]*stock[i]
+    print(value)
+    total = total + value
 print(total)
