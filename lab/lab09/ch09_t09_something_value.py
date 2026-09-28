@@ -20,3 +20,4 @@ total = 0
 for i in prices:
     key=prices[i]*stock[i]
     print(key)
+    
