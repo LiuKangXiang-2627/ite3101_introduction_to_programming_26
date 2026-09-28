@@ -1,5 +1,5 @@
-for letter in "Codecademy":
-    print(letter)
+for letter1 in "Codecademy":
+    print(letter1)
 
 # Empty lines to make the output pretty
 print()
