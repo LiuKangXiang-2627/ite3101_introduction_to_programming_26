@@ -1,6 +1,8 @@
 lloyd={
     'name':'Lloyed',
-    'homework'
+    'homework':[],
+    'quizzes':[],
+    'test'
 
 
 }
