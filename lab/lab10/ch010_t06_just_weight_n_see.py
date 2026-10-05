@@ -25,7 +25,7 @@ def average(numbers: List[float]) -> float:
     return total / len(numbers)
 
 # Add your function below!
-def get average (student):
+def get average(student):
     homework = average(student["homework"])
 
 
