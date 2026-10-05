@@ -29,5 +29,5 @@ def get average(student):
     homework = average(student["homework"])
     quizzes = average(student["quizzes"])
     tests = average(student["tests"])
-
+    
 
