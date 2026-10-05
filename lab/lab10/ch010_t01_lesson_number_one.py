@@ -3,6 +3,4 @@ lloyd={
     'homework':[],
     'quizzes':[],
     'test':[]
-
-
 }
