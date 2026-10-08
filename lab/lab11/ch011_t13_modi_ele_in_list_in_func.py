@@ -8,7 +8,7 @@ for i in range(0, len(n)):
 def double_list(x):
     for i in range(0,len(2)):
         x[i]=x[i]*2
-    ret
+    retu
 
 
 print(double_list(n))
