@@ -6,7 +6,7 @@ for i in range(0, len(n)):
 
 
 def double_list(x):
-    for i
+    for i in range(0,len(2))
 
 
 print(double_list(n))
