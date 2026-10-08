@@ -1,6 +1,6 @@
 n = "Hello"
 # Your function here!
 def string_function(s):
-    return 
+    return "word"
 
 # print(string_function(n))
