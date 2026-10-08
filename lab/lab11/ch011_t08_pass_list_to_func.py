@@ -5,5 +5,5 @@ def list_function(x: List[int]) -> List[int]:
     return x
 
 
-n = [3, 5, 6]
+n = [3, 5, 7]
 print(list_function(n))
