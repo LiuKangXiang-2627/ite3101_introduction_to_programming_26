@@ -42,4 +42,4 @@ else:
     print_board(board)
 for turn in range(4):
     
-    print(turn)
+    print(turn+1)
