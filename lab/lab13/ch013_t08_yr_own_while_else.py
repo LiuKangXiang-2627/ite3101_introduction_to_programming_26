@@ -9,3 +9,4 @@ guess = int(input("Your guess: "))
 while guesses_left > 0 :
     print(random_number)
     if guess = random_number:
+        print("you win")
