@@ -1,5 +1,5 @@
 hobbies = ["swimming","running","football"]
 
 # Add your code below!
-for i in hobbies:
+for i in range :
     
