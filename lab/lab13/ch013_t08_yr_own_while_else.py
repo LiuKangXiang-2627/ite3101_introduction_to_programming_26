@@ -8,4 +8,4 @@ guesses_left = 3
 guess = int(input("Your guess: "))
 while guesses_left > 0 :
     print(random_number)
-    if guess = random_n
+    if guess = random_numbe
