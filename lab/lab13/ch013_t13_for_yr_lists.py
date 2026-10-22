@@ -7,4 +7,5 @@ for num in numbers:
 
 # Add your loop below!
 for i in numbers:
-    i=
+    i = num**3
+    print(i)
