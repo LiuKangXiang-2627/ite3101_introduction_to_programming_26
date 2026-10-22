@@ -5,7 +5,7 @@ for i in phrase:
     if i == 'A' or i == 'a':
         print("X", end='')
     else:
-        print(i, end='')
+        print(i)
 
 # Don't delete this print statement!
 print()
