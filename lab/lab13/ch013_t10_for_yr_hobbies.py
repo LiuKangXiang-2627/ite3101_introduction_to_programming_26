@@ -1,3 +1,3 @@
-hobbies = ["run","s"]
+hobbies = ["run","swm"]
 
 # Add your code below!
