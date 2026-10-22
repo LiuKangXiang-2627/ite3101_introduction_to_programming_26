@@ -6,4 +6,5 @@ for num in numbers:
     print(num)
 
 # Add your loop below!
-for i in nu
+for i in numbers:
+    
