@@ -1,4 +1,4 @@
-hobbies = ["run","swm","hk"]
+hobbies = ["swimming","swm","hk"]
 
 # Add your code below!
 for i in hobbies:
