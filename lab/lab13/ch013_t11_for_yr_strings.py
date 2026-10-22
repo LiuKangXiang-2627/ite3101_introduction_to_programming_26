@@ -6,4 +6,3 @@ for c in thing:
 word = "eggs!"
 
 # Your code here!
-for 
