@@ -3,9 +3,9 @@ phrase = "A bird in the hand..."
 # Add your for loop
 for i in phrase:
     if i == 'A' or i == 'a':
-        print("X")
+        print("X", end='')
     else:
-        print(i,end='')
+        print(i, end='')
 
 # Don't delete this print statement!
 print()
