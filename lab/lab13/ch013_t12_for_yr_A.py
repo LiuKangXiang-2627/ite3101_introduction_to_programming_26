@@ -2,11 +2,10 @@ phrase = "A bird in the hand..."
 
 # Add your for loop
 for i in phrase:
-    if i ==A OR i == a:
+    if i == A and i == a:
         print("X")
     else:
-        print(i,end="")
+        print(i, end="")
 
 # Don't delete this print statement!
 print()
-
