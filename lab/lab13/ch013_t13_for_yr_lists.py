@@ -7,5 +7,5 @@ for num in numbers:
 
 # Add your loop below!
 for i in numbers:
-    i = i**2
+    i = num**2
     print(i)
