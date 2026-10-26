@@ -1,4 +1,4 @@
-def digit_sum(x):
+def digit_sum():
     total=0
     for i in str(x):
         total=total=int(x)
