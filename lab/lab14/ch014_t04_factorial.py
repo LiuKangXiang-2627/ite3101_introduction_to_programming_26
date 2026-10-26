@@ -3,3 +3,4 @@ def factorial(x):
     for i in range(2,x+1):
         total = total*i
     return total
+print()
