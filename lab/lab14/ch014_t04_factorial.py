@@ -1,1 +1,1 @@
-def fun
+def fact
