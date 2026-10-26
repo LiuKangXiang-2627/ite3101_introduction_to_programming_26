@@ -1,3 +1,3 @@
-digit_sum(1234) 
+digit_sum(1234)
 for i in digit_sum:
-    print
+    print i
