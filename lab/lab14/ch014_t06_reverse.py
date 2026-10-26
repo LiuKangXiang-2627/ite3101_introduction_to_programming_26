@@ -1,6 +1,8 @@
 def reverse(text):
-    result=''
+    result = ''
     for i in text:
         result = i = result
     return result
-print(reverse('abcd'))
+
+
+print(reverse('reverse'))
