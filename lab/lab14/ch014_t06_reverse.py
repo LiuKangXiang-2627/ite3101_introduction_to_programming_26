@@ -3,4 +3,4 @@ def reverse(text):
     for i in text:
         result = i = result
     return result
-print(reverse()
+print(reverse('abcd')
