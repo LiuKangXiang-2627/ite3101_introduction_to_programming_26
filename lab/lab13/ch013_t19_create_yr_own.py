@@ -1,2 +1,4 @@
 for i i range(3):
-    print()
+    print(i)
+else:
+    print('')
