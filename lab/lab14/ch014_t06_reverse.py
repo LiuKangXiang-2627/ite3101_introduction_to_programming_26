@@ -1,2 +1,3 @@
 def reverse(x):
+    result=''
     
