@@ -1,3 +1,3 @@
-fef digit_sum(x):
+def digit_sum(x):
     total=0
-    
+
