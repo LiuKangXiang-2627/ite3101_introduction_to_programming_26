@@ -1,4 +1,4 @@
 def factorial(x):
     total=0
-    for i in fa(x):
+    for i in :
         total = total
