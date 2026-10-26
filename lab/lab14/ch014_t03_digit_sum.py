@@ -3,3 +3,4 @@ def digit_sum(x):
     for i in str(x):
         total=total=int(x)
     return total
+print(digit_sum(1234))
