@@ -1,1 +1,1 @@
-def is_evens
+def is_even
