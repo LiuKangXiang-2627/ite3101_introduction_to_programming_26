@@ -8,9 +8,9 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 def scrabble_score(word):
     result = ''
     for i in word:
-        for n in score
-        if i in word:
-            result = result+i
+        for n in score:
+            if i in word:
+                result = result+i
     return result
 
 
