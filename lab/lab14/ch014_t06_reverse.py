@@ -1,7 +1,7 @@
 def reverse(text):
     result = ''
     for i in text:
-        result = result + i
+        result = i + result
     return result
 
 
