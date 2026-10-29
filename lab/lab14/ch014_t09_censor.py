@@ -1,1 +1,1 @@
-censor
+censor(text,word):
