@@ -1,3 +1,2 @@
 def anti_vowel(text):
-    if i in text:
-        
+    for i in text:
