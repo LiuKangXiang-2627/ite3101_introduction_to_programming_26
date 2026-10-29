@@ -7,4 +7,5 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 def scrabble_score(word):
     result=''
     for i in word:
-        if i in word
+        if i in word:
+            
