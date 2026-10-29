@@ -1,3 +1,3 @@
 def censor(text,word):
     asterisks='*'
-    result = text.replace
+    result = text.replace(word,stars)
