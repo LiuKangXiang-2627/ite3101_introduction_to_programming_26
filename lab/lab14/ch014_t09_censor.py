@@ -1,6 +1,6 @@
 def censor(text, word):
     asterisks = '*' * len(word)
-    result = text.replace(word, stars)
+    result = text.replace(word,)
     return result
 
 
