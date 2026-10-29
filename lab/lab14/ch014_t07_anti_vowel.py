@@ -1,4 +1,4 @@
 def anti_vowel(text):
     result=''
-    vowel
+    vowel='aeiouAEIOU'
     for i in text:
