@@ -11,4 +11,4 @@ def scrabble_score(word):
             result = result+1
     return result
 
-print(scrabble_score(word))
+print(scrabble_score(abcd))
