@@ -6,4 +6,4 @@ def anti_vowel(text):
             result = result + i
     return result
 
-
+print(anti_vowel("Hey You!") 
