@@ -6,7 +6,8 @@ def scrabble_score(word):
          "x": 8, "z": 10}
 
 
-
+total = 0
+for i 
 
 
 print(scrabble_score('abcd'))
