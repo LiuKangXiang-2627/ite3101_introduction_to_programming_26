@@ -9,4 +9,6 @@ def scrabble_score(word):
     for i in word:
         if i in word:
             result = result+1
-    return
+    return result
+
+print()
