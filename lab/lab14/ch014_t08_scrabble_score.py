@@ -9,7 +9,7 @@ def scrabble_score(word):
     result = 0
     for i in word:
         for n in score:
-            if i in word:
+            if n in word:
                 result = result+i
     return result
 
