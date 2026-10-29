@@ -8,4 +8,4 @@ def scrabble_score(word):
     result=''
     for i in word:
         if i in word:
-            
+            result = 
