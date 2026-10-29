@@ -7,7 +7,7 @@ def scrabble_score(word):
 
 
 total = 0
-for i 
+for i in word.lower
 
 
 print(scrabble_score('abcd'))
