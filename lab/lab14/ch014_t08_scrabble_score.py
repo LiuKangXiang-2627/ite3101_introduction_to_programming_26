@@ -6,13 +6,7 @@ def scrabble_score(word):
          "x": 8, "z": 10}
 
 
-def scrabble_score(word):
-    result = 0
-    for i in word:
-        for n in score:
-            if n in word:
-                result = result+i
-    return result
+
 
 
 print(scrabble_score('abcd'))
