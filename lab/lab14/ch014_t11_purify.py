@@ -1,4 +1,4 @@
 def purify(seq):
-    res=[]
+    result=[]
     for i in seq:
         if i %2 == 0:
