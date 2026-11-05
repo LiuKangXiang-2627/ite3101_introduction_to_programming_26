@@ -1,2 +1,1 @@
-def purify(list):
-    
+def purify(seq):
