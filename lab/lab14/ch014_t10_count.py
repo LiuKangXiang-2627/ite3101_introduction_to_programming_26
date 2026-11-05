@@ -1,1 +1,1 @@
-def count()
+def count(number:time,)
