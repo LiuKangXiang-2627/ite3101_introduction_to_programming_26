@@ -6,4 +6,3 @@ def censor(text, word):
         else:
             result.append(s)
 
-print(censor("this hack is wack hack", "hack"))
