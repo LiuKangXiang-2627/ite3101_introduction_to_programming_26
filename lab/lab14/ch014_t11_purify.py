@@ -1,4 +1,5 @@
 def purify(seq):
     resuit=[]
     for i in seq:
-        if i %
+        if i %2 == 0:
+            
