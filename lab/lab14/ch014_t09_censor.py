@@ -1,4 +1,4 @@
-def censor(text, word):
+def censor(text,word):
     result = []
     for s in text.split():
         if s == word:
