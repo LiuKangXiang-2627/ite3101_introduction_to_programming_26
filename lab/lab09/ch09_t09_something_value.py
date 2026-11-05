@@ -22,4 +22,5 @@ for i in prices:
     total = total + value
 print(total)
 
-for 
+for i in prices:
+    
