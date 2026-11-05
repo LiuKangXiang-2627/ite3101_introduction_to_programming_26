@@ -1,1 +1,1 @@
-def count(sequence:,item:list)
+def count(sequenc)
