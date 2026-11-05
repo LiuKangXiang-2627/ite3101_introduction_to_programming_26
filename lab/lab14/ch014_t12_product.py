@@ -1,5 +1,5 @@
 def product(number):
-    result=i
+    result = 1
     for i in number:
         result *= i
     return result
