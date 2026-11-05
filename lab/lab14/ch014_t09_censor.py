@@ -4,6 +4,6 @@ def censor(text, word):
         if s == word:
             result.append("*"*len(word))
         else:
-            
+            result.append(s)
 
 print(censor("this hack is wack hack", "hack"))
