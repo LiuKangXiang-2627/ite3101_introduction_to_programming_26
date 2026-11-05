@@ -1,2 +1,3 @@
 def product(number):
-    result=
+    result=[]
+    
