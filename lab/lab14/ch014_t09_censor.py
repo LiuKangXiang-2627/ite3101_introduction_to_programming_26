@@ -4,4 +4,4 @@ def censor(text, word):
     return result
 
 
-print(censor("this hackse is wack hack", "hack"))
+print(censor("this hack is wack hack", "hack"))
