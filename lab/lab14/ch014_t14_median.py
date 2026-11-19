@@ -1,4 +1,4 @@
 from typing import List
 
-def median():
+def median(list):
     sorted_num=sorted(num)    
